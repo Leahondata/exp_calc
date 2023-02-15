@@ -22,7 +22,7 @@ Working examples:
 
 Menu selection 2:
 
-![Menu selection 2:](https://user-images.githubusercontent.com/124433926/219021010-0eac254b-dd1e-4f22-bb1c-61d59e37140b.png)
+![Menu selection 2:](https://user-images.githubusercontent.com/124433926/219022203-64f42e12-956f-413e-a18d-1def5aa25ad8.png)
 
 Menu selection 3:
 
@@ -30,7 +30,7 @@ Menu selection 3:
 
 Menu selection 4:
 
-![Menu selection 4:](https://user-images.githubusercontent.com/124433926/219020971-f5d0a35d-c58c-40bc-93a5-0cf45c69c284.png)
+![Menu selection 4:](https://user-images.githubusercontent.com/124433926/219022255-99a643b6-26b8-4f05-9d90-2c296623cb80.png)
 
 PNG file created with Menu selection 4:
 
