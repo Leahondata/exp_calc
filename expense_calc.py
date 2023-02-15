@@ -81,7 +81,7 @@ def get_input():
     Parameters:
     None.
 
-    Returns: 
+    Returns:
     list of lists: A list of lists representing the data in the file where each inner list is a row in the file.
     '''
     input_data = []
