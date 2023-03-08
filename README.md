@@ -18,7 +18,7 @@ Menu explanation:
 0. Exit program                       - Exits the program.
 
 
-Working examples:
+## Working examples
 
 Menu selection 2:
 
